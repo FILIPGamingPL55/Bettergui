@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "bettergui",
+  "version": "${version}",
+  "name": "BetterGUI",
+  "description": "Feather-style dark GUI with custom capes for Minecraft 1.20.6",
+  "authors": ["BetterGUI"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.bettergui.BetterGuiMod"
+    ]
+  },
+  "mixins": [
+    "mixins.bettergui.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

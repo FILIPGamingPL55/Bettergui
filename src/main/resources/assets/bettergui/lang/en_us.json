@@ -1,0 +1,13 @@
+{
+  "bettergui.title.singleplayer": "Singleplayer",
+  "bettergui.title.multiplayer": "Multiplayer",
+  "bettergui.title.cosmetics": "Cosmetics",
+  "bettergui.title.quit": "Quit Game",
+  "bettergui.cape.select": "Select Cape",
+  "bettergui.cape.none": "No Cape",
+  "bettergui.cape.back": "Back",
+  "bettergui.cape.default": "Default Cape",
+  "bettergui.cape.flame": "Flame Cape",
+  "bettergui.cape.galaxy": "Galaxy Cape",
+  "bettergui.cape.gradient": "Gradient Cape"
+}

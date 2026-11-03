@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.bettergui.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "TitleScreenMixin",
+    "PlayerSkinMixin",
+    "DeathScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
